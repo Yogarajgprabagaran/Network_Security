@@ -19,6 +19,7 @@ Welcome to my Network Security Projects repository! This repository contains a c
 9. [Certificate Authority Deployment](#certificate-authority-deployment)
 10. [Remote Access VPN (Global Protect)](#remote-access-vpn-global-protect)
 11. [Intrusion Detection System Utilizing SNORT](#intrusion-detection-system-utilizing-snort)
+12. NS Final Project
 
 ## Simple Network Topology and Static Routing
 - Understand the fundamentals of network topology design and configuration.
@@ -64,4 +65,7 @@ Welcome to my Network Security Projects repository! This repository contains a c
 - Deploy SNORT as an Intrusion Detection System (IDS) to monitor network traffic.
 - Configure SNORT rules to detect and respond to potential security threats.
 
+## NS Final Project
+![image](https://github.com/Yogarajgprabagaran/Network_Security-Labs-and-Projects/assets/162944315/f90db878-f2de-4b78-906b-d354cc0638ca)
+The project's accomplishment lies in the intricate design of a secure network infrastructure that spans across the corporate headquarters and its two branches, ingeniously fortified with technologies like IDS/IPS, NAC, and SD-WAN. It boasts a robust arrangement of VPNs, reinforced by authentication protocols managed by certificate authorities, ensuring data integrity and operational efficiency. The network's architecture, evident from the topology, encompasses strategically placed firewalls, a meticulous VLAN structure, and dedicated security zones that embody the commitment to security and streamlined operations. The addition of IDS/IPS, the comprehensive server farm, and thorough network segmentation demonstrates a proactive approach to cybersecurity. By continuously monitoring through threat assessments and compliance with the NIST framework, the network is not only secure but also poised for future expansions, enabling the organization to maintain its strategic edge and operational agility.
 
